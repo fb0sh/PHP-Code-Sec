@@ -7,6 +7,11 @@
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-Educational-green)](LICENSE)
 
+![](1.png)
+![](2.png)
+![](3.png)
+![](4.png)
+
 ## 功能概览
 
 - 安装向导：生成数据库与配置（MySQL / PDO）
